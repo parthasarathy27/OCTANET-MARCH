@@ -4,6 +4,8 @@ Welcome to my OCTANET_MARCH participant repository! In this repository, you'll f
 
 ## Task Details
 
+### Task - 1
+
 ### Assigned Task: Landing Page using HTML and CSS
 
 The assigned task involves creating a landing page using HTML and CSS. The goal is to design an engaging and visually appealing webpage that effectively communicates a message or purpose.
