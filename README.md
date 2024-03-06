@@ -35,7 +35,7 @@ For this task, I followed a structured approach to design a clean and responsive
 
 - `index.html`: Main HTML file for the landing page.
 - `styles.css`: CSS file containing the styling rules.
-- `images/`: Directory to store images used in the landing page.
+- `images-src/`: Directory to store images used in the landing page.
 
 ### Instructions
 
