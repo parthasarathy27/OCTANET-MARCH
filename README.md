@@ -45,10 +45,6 @@ To view the landing page:
 
 Feel free to explore the code and provide feedback.
 
-### Video Demonstration
-
-Watch my [LinkedIn video](#) for a visual walkthrough of the landing page.
-
 ### Submission Status
 
 The task has been completed, and the repository is ready for submission.
