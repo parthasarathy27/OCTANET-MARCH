@@ -6,11 +6,11 @@ Welcome to my OCTANET_MARCH participant repository! In this repository, you'll f
 
 ### Task - 1
 
-### Assigned Task: Landing Page using HTML and CSS
+#### Assigned Task: Landing Page using HTML and CSS
 
 The assigned task involves creating a landing page using HTML and CSS. The goal is to design an engaging and visually appealing webpage that effectively communicates a message or purpose.
 
-### My Approach
+#### My Approach
 
 For this task, I followed a structured approach to design a clean and responsive landing page. The key elements of my approach include:
 
@@ -31,13 +31,13 @@ For this task, I followed a structured approach to design a clean and responsive
    - Optimized images and other assets for faster page loading.
    - Ensured cross-browser compatibility for a seamless user experience.
 
-### Repository Structure
+#### Repository Structure
 
 - `index.html`: Main HTML file for the landing page.
 - `styles.css`: CSS file containing the styling rules.
 - `images-src/`: Directory to store images used in the landing page.
 
-### Instructions
+#### Instructions
 
 To view the landing page:
 1. Clone this repository.
@@ -45,11 +45,59 @@ To view the landing page:
 
 Feel free to explore the code and provide feedback.
 
-### Submission Status
+#### Submission Status
 
 The task has been completed, and the repository is ready for submission.
 
-### Contact
+### Task - 2
+
+#### Upcoming Task: Interactive Web Application with JavaScript
+
+The next task involves developing an interactive web application using HTML, CSS, and JavaScript. The objective is to create a dynamic and user-friendly web application that incorporates interactive elements and functionality.
+
+#### To-Do List for Task 2:
+
+1. **Initial Planning:**
+   - Determine the application's purpose and target audience.
+   - Sketch the initial design and layout ideas.
+
+2. **Development Setup:**
+   - Set up a development environment with necessary tools and libraries.
+   - Create a new branch in the repository for development.
+
+3. **HTML Structure:**
+   - Develop the HTML structure with emphasis on semantic elements and accessibility.
+
+4. **CSS Styling:**
+   - Design a consistent and appealing visual style.
+   - Implement responsive design from the start.
+
+5. **JavaScript Functionality:**
+   - Add interactivity to the web application (e.g., form submissions, dynamic content updates).
+   - Ensure functionality is intuitive and enhances user experience.
+
+6. **Testing and Debugging:**
+   - Perform thorough testing across different browsers and devices.
+   - Debug any issues that arise during testing.
+
+7. **Optimization and Deployment:**
+   - Optimize the application for performance and security.
+   - Deploy the application to a web server or hosting platform.
+
+8. **Documentation and Submission:**
+   - Document the development process and decisions.
+   - Prepare the repository for final submission.
+
+#### Preparation Steps:
+
+- [ ] Determine application's purpose
+- [ ] Sketch design ideas
+- [ ] Set up development environment
+- [ ] Start development with basic HTML structure
+
+Feel free to suggest any changes or additions to this plan.
+
+#### Contact
 
 If you have any questions or feedback, feel free to contact me.
 
