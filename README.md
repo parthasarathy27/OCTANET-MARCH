@@ -90,6 +90,7 @@ The next task involves developing an interactive web application using HTML, CSS
   
 ## Links
 
+1. https://octanet-march-jet.vercel.app/Landing%20-%20page/index.html
 2. https://octanet-march-jet.vercel.app/To-Do%20List/index.html
 
 #### Preparation Steps:
